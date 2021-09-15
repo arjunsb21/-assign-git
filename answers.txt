@@ -1,4 +1,8 @@
 • What is a gitignore file and what should it include for a Java project?
+ it will keep a list of all those files which should not push to remote git
 • What does fast-forward in Git mean?
+ In Git, to "fast forward" means to update the HEAD pointer in such a way that its new value is a direct descendant of the prior value
 • Why should you have different branches?
+ to manage conflicts and every member can work simultaneously
 • In a project how many remote Git repositories do you usually have?
+ number of team members or more than that if one member is working on multiple features
